@@ -7,8 +7,8 @@ This is a solution to the Base Apparel coming soon page challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [See it live](#see-it-live)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,18 +29,25 @@ Users should be able to:
   - The `input` field is empty
   - The email address is not formatted correctly
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-
 ### See it live
 
 - Live Site URL: [URL](https://kimnamlhn.github.io/Base-Apparel-coming-soon-page/)
 
+### Screenshot
+
+![Design web](https://github.com/kimnamlhn/Base-Apparel-coming-soon-page/blob/main/design/desktop-design.jpg?raw=true)
+
+
+
 ## My process
 
 ### Built with
+
+- HTML
+- CSS 
+- Javascript
+
+### What I learned
 
 - Semantic HTML5 markup
 - CSS custom properties
